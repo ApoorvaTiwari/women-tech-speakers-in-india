@@ -324,7 +324,7 @@ Social: [Twitter](@kuppulakshmi), [LinkedIn](http://in.linkedin.com/in/KuppuKris
 ### Apoorva Tiwari
 
 - Location: Hyderabad
-- Talks about: Android, Google Technologies, Women in Tech, Community
+- Talks about: Android, Google Technologies, Women in Tech, Community, All things API
 - Social: [twitter](https://twitter.com/apoorva_tiw), [LinkedIn](https://www.linkedin.com/in/apoorvatiw/)
 - Consent given to contact: ✅
 - Preferred contact method: Twitter DM, LinkedIn DM
